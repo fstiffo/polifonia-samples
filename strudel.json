@@ -1,18 +1,19 @@
 {
   "_base": "https://raw.githubusercontent.com/fstiffo/polifonia-samples/master/",
   "italy": [
-    "d3": "italy/Chiesa_di_San_Petro_Re3.wav",
-    "e3": "italy/Chiesa_di_San_Petro_Mi3.wav",
-    "f#3": "italy/Chiesa_di_San_Petro_Fad3.wav",
-    "g3": "italy/Chiesa_di_San_Petro_Sol3.wav",
-    "a3": "italy/Chiesa_di_San_Petro_La3.wav",
-    "b3": "italy/Chiesa_di_San_Petro_Si3.wav",
-    "c4": "italy/Chiesa_di_San_Petro_Do4.wav",
-    "c#4": "italy/Chiesa_di_San_Petro_Dod4.wav",
-    "d4": "italy/Chiesa_di_San_Petro_Re4.wav",
-    "e4": "italy/Chiesa_di_San_Petro_Mi3.wav",
-    "f#4": "italy/Chiesa_di_San_Petro_Fad4.wav",
-    "g#4": "italy/Chiesa_di_San_Petro_Sol4.wav",
-    "a#4": "italy/Chiesa_di_San_Petro_La4_Sol4_transposed.wav"
+    "italy/Chiesa_di_San_Petro_Do4.wav",
+    "italy/Chiesa_di_San_Petro_Dod4.wav",
+    "italy/Chiesa_di_San_Petro_Fad3.wav",
+    "italy/Chiesa_di_San_Petro_Fad4.wav",
+    "italy/Chiesa_di_San_Petro_La3.wav",
+    "italy/Chiesa_di_San_Petro_La4.wav",
+    "italy/Chiesa_di_San_Petro_La4_Sol4_transposed.wav",
+    "italy/Chiesa_di_San_Petro_Mi3.wav",
+    "italy/Chiesa_di_San_Petro_Mi4.wav",
+    "italy/Chiesa_di_San_Petro_Re3.wav",
+    "italy/Chiesa_di_San_Petro_Re4.wav",
+    "italy/Chiesa_di_San_Petro_Si3.wav",
+    "italy/Chiesa_di_San_Petro_Sol3.wav",
+    "italy/Chiesa_di_San_Petro_Sol4.wav"
   ]
 }
